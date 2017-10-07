@@ -49,15 +49,42 @@ Naveen Namashivayam, Bob Cernohous, Krishna Kandalla, Dan Pou, Joseph Robichaux,
 James Dinan, and Mark Pagel. _Fourth Workshop on OpenSHMEM and Related 
 Technologies: Big Compute and Big Data Convergence._   
 [Symmetric Memory Partitions in OpenSHMEM: A case study with Intel
-KNL](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html)[**PDF**](). 
+KNL](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html) - [**PDF**](). 
 
+Krishna Kandalla, Peter Mendygral, Nick Radcli, Bob Cernohous, Naveen
+Namashivayam, Kim McMahon, Chris Sadlo and Mark Pagel. _Cray User Group 
+Meeting._   
+[Current State of the Cray MPT Software Stacks on the Cray XC Series 
+Supercomputers]() - [**PDF**](). 
 
+**2016**  
+Naveen Namashivayam, David Knaak, Bob Cernohous, Nick Radcli, and Mark Pagel.
+_Third Workshop on OpenSHMEM and Related Technologies: Enhancing OpenSHMEM for
+Hybrid Environments._   
+[An Evaluation of Thread-Safe and Contexts-Domains Features in Cray SHMEM]() - 
+[**PDF**](). 
 
-**2016**
+**2015**  
+Naveen Namashivayam, Deepak Eachempati, Dounia Khaldi and Barbara Chapman.
+_IEEE Cluster_  
+[OpenSHMEM as a Portable Communication Layer for PGAS Models - A Case Study with
+Coarray Fortran]() - [**PDF**](). 
 
-**2015**
+Naveen Namashivayam, Dounia Khaldi, Deepak Eachempati and Barbara Chapman.
+_Second OpenSHMEM Workshop: Experiences, Implementations and Tools._   
+[Extending the Strided Communication Interface in OpenSHMEM]() - [**PDF**](). 
 
-**2014**
+David Knaak, and Naveen Namashivayam. _Second OpenSHMEM Workshop: Experiences, 
+Implementations and Tools._   
+[Proposing OpenSHMEM Extensions Towards a Future for Hybrid Programming and 
+Heterogeneous Computing]() - [**PDF**]().
+
+**2014**  
+Naveen Namashivayam, Sayan Ghosh, Dounia Khaldi, Deepak Eachempati, and Barbara
+Chapman. _8th International Conference on Partitioned Global Address Space
+Programming Models (PGAS)._   
+[Native Mode-Based Optimizations of Remote Memory Accesses in OpenSHMEM for
+Intel Xeon Phi]() - [**PDF**]()
 
 ---
 
