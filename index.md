@@ -66,7 +66,7 @@ Hybrid Environments._
 
 **2015**  
 Naveen Namashivayam, Deepak Eachempati, Dounia Khaldi and Barbara Chapman.
-_IEEE Cluster_  
+_IEEE Cluster._  
 [OpenSHMEM as a Portable Communication Layer for PGAS Models - A Case Study with
 Coarray Fortran]() - [**PDF**](). 
 
@@ -89,3 +89,10 @@ Intel Xeon Phi]() - [**PDF**]()
 ---
 
 ## Thesis
+**Masters Thesis**, University of Houston, October 2015.   
+[OpenSHMEM as an Effective Communication Layer for PGAS Models.]() -
+[**PDF**]().   
+Committee Members: Dr. Barbara Chapman (Chairman), Dr. Edgar Gabriel, and
+Dr. Mikhail Sekachev
+
+
