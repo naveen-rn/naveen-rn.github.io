@@ -1,6 +1,10 @@
 ## About Me
 
-Professional Software Engineer with experience in the general areas of parallel and distributed computing. Specifically, my technical skills focus on parallel programming models and runtime systems (MPI and Partitioned Global Address Space models like OpenSHMEM, Global Arrays, and Coarray Fortran)
+Professional Software Engineer with experience in the general areas 
+of parallel and distributed computing. Specifically, my technical 
+skills focus on parallel programming models and runtime systems (MPI 
+and Partitioned Global Address Space models like OpenSHMEM, Global 
+Arrays, and Coarray Fortran)
 
 [View my detailed CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/cv.pdf)
 
@@ -21,8 +25,8 @@ August 2007 - May 2011
 ## Experience
 
 **Cray, Inc.**  
-Software Engineer in the Programming Environment - Message Passing Toolkit group
-December 2015 - present
+Software Engineer in the Programming Environment - Message Passing Toolkit group  
+December 2015 - present  
 
 **Cray, Inc.**  
 Intern in the Programming Environment - Message Passing Toolkit group  
@@ -40,7 +44,14 @@ June 2011 - July 2013
 
 ## Referred Conference and Workshop Publications
 
-**2017**
+**2017**   
+Naveen Namashivayam, Bob Cernohous, Krishna Kandalla, Dan Pou, Joseph Robichaux,
+James Dinan, and Mark Pagel. _Fourth Workshop on OpenSHMEM and Related 
+Technologies: Big Compute and Big Data Convergence._   
+[Symmetric Memory Partitions in OpenSHMEM: A case study with Intel
+KNL](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html)[**PDF**](). 
+
+
 
 **2016**
 
