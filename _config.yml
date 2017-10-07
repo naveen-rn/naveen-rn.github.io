@@ -1,0 +1,7 @@
+title: Naveen Ravichandrasekaran
+description: My profile
+show_downloads: false
+theme: jekyll-theme-minimal
+
+gems:
+- jekyll-mentions
