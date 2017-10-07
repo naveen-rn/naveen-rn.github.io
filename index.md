@@ -65,8 +65,7 @@ _Third Workshop on OpenSHMEM and Related Technologies: Enhancing OpenSHMEM for
 Hybrid Environments._   
 [An Evaluation of Thread-Safe and Contexts-Domains Features in Cray
 SHMEM](https://link.springer.com/chapter/10.1007/978-3-319-50995-2_11) - 
-[**PDF**]
-(http://www.csm.ornl.gov/workshops/openshmem2016/Presentations/P4_An_Evaluation_of_Thread-Safe_and_Contexts-Domains_Features_in_CraySHMEM.pdf). 
+[**PDF**](http://www.csm.ornl.gov/workshops/openshmem2016/Presentations/P4_An_Evaluation_of_Thread-Safe_and_Contexts-Domains_Features_in_CraySHMEM.pdf). 
 
 **2015**  
 Naveen Namashivayam, Deepak Eachempati, Dounia Khaldi and Barbara Chapman.
@@ -105,5 +104,7 @@ Models.](https://www.researchgate.net/publication/297734774_OPENSHMEM_as_an_Effe
 [**PDF**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/ms-thesis.pdf).   
 Committee Members: Dr. Barbara Chapman (Chairman), Dr. Edgar Gabriel, and
 Dr. Mikhail Sekachev
+
+---
 
 
