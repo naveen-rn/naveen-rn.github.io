@@ -8,10 +8,10 @@ Professional Software Engineer with experience in the general areas of parallel 
 
 # Education
 
-** University of Houston **
+**University of Houston**
 M.S in Computer Science - Specialization in Parallel and Distributed Systems
 August 2013 - December 2015
 
-** Anna University, India **
+**Anna University, India**
 Bachelors in Engineering - Electrical and Electronics Engineering
 August 2007 - May 2011
