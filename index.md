@@ -50,8 +50,7 @@ James Dinan, and Mark Pagel. _Fourth Workshop on OpenSHMEM and Related
 Technologies: Big Compute and Big Data Convergence._   
 [Symmetric Memory Partitions in OpenSHMEM: A case study with Intel
 KNL](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html) -
-[**PDF**]
-(https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm17.pdf). 
+[**PDF**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm17.pdf). 
 
 Krishna Kandalla, Peter Mendygral, Nick Radclif, Bob Cernohous, Naveen
 Namashivayam, Kim McMahon, Chris Sadlo and Mark Pagel. _Cray User Group 
