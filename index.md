@@ -44,6 +44,10 @@ June 2011 - July 2013
 
 ## Referred Conference and Workshop Publications
 
+My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
+conference and workshop publications as **Naveen Namashivayam**.
+
+
 **2017**   
 Naveen Namashivayam, Bob Cernohous, Krishna Kandalla, Dan Pou, Joseph Robichaux,
 James Dinan, and Mark Pagel. _Fourth Workshop on OpenSHMEM and Related 
