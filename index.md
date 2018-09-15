@@ -65,7 +65,7 @@ James Dinan, and Mark Pagel. <font color="blue">Symmetric Memory Partitions in
 OpenSHMEM: A case
 study with Intel KNL. </font> Fourth Workshop on OpenSHMEM and Related Technologies: Big
 Compute and Big Data Convergence.</p>
-[**PDF**](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html) -
+[**PDF**](https://link.springer.com/chapter/10.1007/978-3-319-73814-7_1) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm17.pdf).
 
 <p align="justify">
