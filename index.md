@@ -49,11 +49,10 @@ conference and workshop publications as **Naveen Namashivayam**.
 
 **2018**
 <p align="justify">
-Naveen Namashivayam, Bob Cernohous, Dan Pou, and Mark Pagel. Introducing Cray
-OpenSHMEMX - A Modular Multi-Communication Layer OpenSHMEM Implementation. Fifth
-Workshop on OpenSHMEM and Related Technologies.
+Naveen Namashivayam, Bob Cernohous, Dan Pou, and Mark Pagel. <font color="blue">
+Introducing Cray OpenSHMEMX - A Modular Multi-Communication Layer OpenSHMEM
+Implementation. </font> Fifth Workshop on OpenSHMEM and Related Technologies.
 </p>
-
 [**PDF**](http://www.csm.ornl.gov/workshops/openshmem2018/agenda.html) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm18.pdf).
 
