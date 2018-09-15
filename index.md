@@ -1,10 +1,13 @@
 ## About Me
 
+<p align="justify">
 Professional Software Engineer with experience in the general areas
 of parallel and distributed computing. Specifically, my technical
-skills focus on parallel programming models and runtime systems (MPI
-and Partitioned Global Address Space models like OpenSHMEM, Global
-Arrays, and Coarray Fortran)
+skills focus on parallel computing architectures, parallel programming models
+and runtime systems, (MPI and Partitioned Global Address Space models like
+OpenSHMEM, Global Arrays, and Coarray Fortran) and high-speed interconnect
+libraries.
+</p>
 
 [View my detailed CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/cv.pdf)
 
