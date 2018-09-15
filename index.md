@@ -51,79 +51,66 @@ conference and workshop publications as **Naveen Namashivayam**.
 <p align="justify">
 Naveen Namashivayam, Bob Cernohous, Dan Pou, and Mark Pagel. <font color="blue">
 Introducing Cray OpenSHMEMX - A Modular Multi-Communication Layer OpenSHMEM
-Implementation. </font> Fifth Workshop on OpenSHMEM and Related Technologies.
-</p>
+Implementation. </font> Fifth Workshop on OpenSHMEM and Related Technologies.</p>
 [**PDF**](http://www.csm.ornl.gov/workshops/openshmem2018/agenda.html) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm18.pdf).
 
 **2017**
 <p align="justify">
 Naveen Namashivayam, Bob Cernohous, Krishna Kandalla, Dan Pou, Joseph Robichaux,
-James Dinan, and Mark Pagel. Symmetric Memory Partitions in OpenSHMEM: A case
-study with Intel KNL. Fourth Workshop on OpenSHMEM and Related Technologies: Big
-Compute and Big Data Convergence.
-</p>
-
+James Dinan, and Mark Pagel. <font color="blue">Symmetric Memory Partitions in
+OpenSHMEM: A case
+study with Intel KNL. </font> Fourth Workshop on OpenSHMEM and Related Technologies: Big
+Compute and Big Data Convergence.</p>
 [**PDF**](http://www.csm.ornl.gov/workshops/openshmem2017/agenda.html) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm17.pdf).
 
 <p align="justify">
 Krishna Kandalla, Peter Mendygral, Nick Radclif, Bob Cernohous, Naveen
-Namashivayam, Kim McMahon, Chris Sadlo and Mark Pagel. Current State of the Cray
-MPT Software Stacks on the Cray XC Series Supercomputers. Cray User Group
-Meeting CUG 2017.
-</p>
-
+Namashivayam, Kim McMahon, Chris Sadlo and Mark Pagel. <font color="blue">
+Current State of the Cray
+MPT Software Stacks on the Cray XC Series Supercomputers. </font> Cray User Group
+Meeting CUG 2017.</p>
 [**PDF**](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap125s2-file1.pdf) -
 [**SLIDES**](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap125s2-file2.pdf).
 
 **2016**
 <p align="justify">
 Naveen Namashivayam, David Knaak, Bob Cernohous, Nick Radclif, and Mark Pagel.
-An Evaluation of Thread-Safe and Contexts-Domains Features in Cray
-SHMEM. Third Workshop on OpenSHMEM and Related Technologies: Enhancing OpenSHMEM
-for Hybrid Environments.
-</p>
-
+<font color="blue">An Evaluation of Thread-Safe and Contexts-Domains Features in Cray
+SHMEM. </font> Third Workshop on OpenSHMEM and Related Technologies: Enhancing OpenSHMEM
+for Hybrid Environments.</p>
 [**PDF**](https://link.springer.com/chapter/10.1007/978-3-319-50995-2_11) -
 [**SLIDES**](http://www.csm.ornl.gov/workshops/openshmem2016/Presentations/P4_An_Evaluation_of_Thread-Safe_and_Contexts-Domains_Features_in_CraySHMEM.pdf).
 
 **2015**
 <p align="justify">
 Naveen Namashivayam, Deepak Eachempati, Dounia Khaldi and Barbara Chapman.
-OpenSHMEM as a Portable Communication Layer for PGAS Models - A Case Study with
-Coarray Fortran. IEEE Cluster 2015.
-</p>
-
+<font color="blue">OpenSHMEM as a Portable Communication Layer for PGAS Models - A Case Study with
+Coarray Fortran. </font> IEEE Cluster 2015.</p>
 [**PDF**](https://www.computer.org/csdl/proceedings/cluster/2015/6598/00/6598a438.pdf) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/cluster15.pdf).
 
 <p align="justify">
 Naveen Namashivayam, Dounia Khaldi, Deepak Eachempati and Barbara Chapman.
-Extending the Strided Communication Interface in
-OpenSHMEM. Second OpenSHMEM Workshop: Experiences, Implementations and Tools.
-</p>
-
+<font color="blue">Extending the Strided Communication Interface in
+OpenSHMEM. </font> Second OpenSHMEM Workshop: Experiences, Implementations and Tools.</p>
 [**PDF**](https://link.springer.com/chapter/10.1007/978-3-319-26428-8_1) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm15.pdf).
 
 <p align="justify">
-David Knaak, and Naveen Namashivayam. Proposing OpenSHMEM Extensions Towards a
-Future for Hybrid Programming and Heterogeneous Computing. Second OpenSHMEM
-Workshop: Experiences, Implementations and Tools.
-</p>
-
+David Knaak, and Naveen Namashivayam. <font color="blue">Proposing OpenSHMEM
+Extensions Towards a Future for Hybrid Programming and Heterogeneous Computing. </font>
+Second OpenSHMEM Workshop: Experiences, Implementations and Tools.</p>
 [**PDF**](https://dl.acm.org/citation.cfm?id=2952638) -
 [**SLIDES**](http://www.csm.ornl.gov/workshops/openshmem2015/documents/talk7_paper_cray_extensions.pdf).
 
 **2014**
 <p align="justify">
 Naveen Namashivayam, Sayan Ghosh, Dounia Khaldi, Deepak Eachempati, and Barbara
-Chapman. Native Mode-Based Optimizations of Remote Memory Accesses in OpenSHMEM for
-Intel Xeon Phi. 8th International Conference on Partitioned Global Address Space
-Programming Models (PGAS).
-</p>
-
+Chapman. <font color="blue">Native Mode-Based Optimizations of Remote Memory
+Accesses in OpenSHMEM for Intel Xeon Phi. </font> 8th International Conference
+on Partitioned Global Address Space Programming Models (PGAS).</p>
 [**PDF**](https://dl.acm.org/citation.cfm?id=2676881) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/pgas14.pdf)
 
@@ -132,11 +119,9 @@ Programming Models (PGAS).
 ## Thesis
 **Masters Thesis**, University of Houston, October 2015.
 <p align="justify">
-OpenSHMEM as an Effective Communication Layer for PGAS Models.
+<font color="blue">OpenSHMEM as an Effective Communication Layer for PGAS Models.</font>
 Committee Members: Dr. Barbara Chapman (Chairman), Dr. Edgar Gabriel, and
-Dr. Mikhail Sekachev
-</p>
-
+Dr. Mikhail Sekachev</p>
 [**PDF**](https://www.researchgate.net/publication/297734774_OPENSHMEM_as_an_Effective_Communication_Layer_for_PGAS_Models) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/ms-thesis.pdf).
 
