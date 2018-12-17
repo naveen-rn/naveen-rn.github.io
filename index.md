@@ -16,44 +16,38 @@ libraries.
 ## Education
 
 **University of Houston**
+August 2013 - December 2015
 
 M.S in Computer Science - Specialization in Parallel and Distributed Systems
 
-August 2013 - December 2015
-
 **Anna University, India**
+August 2007 - May 2011
 
 Bachelors in Engineering - Electrical and Electronics Engineering
-
-August 2007 - May 2011
 
 ---
 
 ## Experience
 
 **Cray, Inc.**
+December 2015 - present
 
 Software Engineer in the Programming Environment - Message Passing Toolkit group
 
-December 2015 - present
-
 **Cray, Inc.**
+May 2015 - December 2015
 
 Intern in the Programming Environment - Message Passing Toolkit group
 
-May 2015 - December 2015
-
 **HPC Tools**
+August 2013 - May 2015
 
 Research Assistant to Dr. Barbara Chapman
 
-August 2013 - May 2015
-
 **Cognizant Technology Solutions**
+June 2011 - July 2013
 
 Programmer Analyst
-
-June 2011 - July 2013
 
 ---
 
