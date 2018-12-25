@@ -141,7 +141,7 @@ Deepak Eachempati, and Barbara
 Chapman. <font color="#069">Native Mode-Based Optimizations of Remote Memory
 Accesses in OpenSHMEM for Intel Xeon Phi. </font> 8th International Conference
 on Partitioned Global Address Space Programming Models (PGAS).</p>
-![test][https://github.com/naveen-rn/naveen-rn.github.io/tree/master/image/pdf.jpg "PDF Image"][**PDF**](https://dl.acm.org/citation.cfm?id=2676881) -
+[**PDF**](https://dl.acm.org/citation.cfm?id=2676881) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/pgas14.pdf)
 
 ---
