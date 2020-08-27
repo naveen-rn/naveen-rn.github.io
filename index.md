@@ -29,8 +29,13 @@ Bachelors in Engineering - Electrical and Electronics Engineering
 
 ## Experience
 
+**HPE**
+January 2020 - Present
+
+Software Engineer in the Programming Environment - Message Passing Toolkit group
+
 **Cray, Inc.**
-December 2015 - present
+December 2015 - December 2019
 
 Software Engineer in the Programming Environment - Message Passing Toolkit group
 
@@ -65,11 +70,18 @@ Programmer Analyst
 5. [**Coarray Fortran in OpenUH**](https://github.com/uhhpctools/openuh)
 
 ---
-
-## Referred Conference and Workshop Publications
+## Referred Journal Publications
 
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
 conference and workshop publications as **Naveen Namashivayam**.
+
+**2020**
+<p align="justify">
+<font color="#069"><i>Naveen Namashivayam</i></font>, Bill Long, Deepak
+Eachempati, Bob Cernohous, and Mark Pagel. <font color="#069"> A Modern Fortran 
+Interface in OpenSHMEM. </font> ACM Transactions on Parallel Computing.</p>
+
+## Referred Conference and Workshop Publications
 
 **2018**
 <p align="justify">
