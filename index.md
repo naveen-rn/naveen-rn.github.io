@@ -70,10 +70,10 @@ Programmer Analyst
 5. [**Coarray Fortran in OpenUH**](https://github.com/uhhpctools/openuh)
 
 ---
-## Referred Journal Publications
-
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
 conference and workshop publications as **Naveen Namashivayam**.
+
+## Referred Journal Publications
 
 **2020**
 <p align="justify">
