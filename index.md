@@ -73,7 +73,7 @@ Programmer Analyst
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
 conference and workshop publications as **Naveen Namashivayam**.
 
-## Referred Journal Publications
+## Refereed Journal Articles
 
 **2020**
 <p align="justify">
@@ -81,7 +81,7 @@ conference and workshop publications as **Naveen Namashivayam**.
 Eachempati, Bob Cernohous, and Mark Pagel. <font color="#069"> A Modern Fortran 
 Interface in OpenSHMEM. </font> ACM Transactions on Parallel Computing.</p>
 
-## Referred Conference and Workshop Publications
+## Refereed Conference and Workshop Publications
 
 **2018**
 <p align="justify">
