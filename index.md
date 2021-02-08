@@ -73,7 +73,7 @@ Programmer Analyst
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
 conference and workshop publications as **Naveen Namashivayam**.
 
-## Refereed Journal Articles
+## Journal Articles
 
 **2020**
 <p align="justify">
@@ -82,7 +82,7 @@ Eachempati, Bob Cernohous, and Mark Pagel. <font color="#069"> A Modern Fortran
 Interface in OpenSHMEM. </font> ACM Transactions on Parallel Computing.</p>
 [**PDF**](https://dl.acm.org/doi/abs/10.1145/3418084)
 
-## Refereed Conference and Workshop Publications
+## Conference and Workshop Publications
 
 **2021**
 <p align="justify">
@@ -91,6 +91,15 @@ Yew. <font color="#069"> Variable-Sized Blocks for Locality-Aware SpMV</font>
 International Symposium on Code Generation and Optimization (CGO).</p>
 [**PDF**](https://conf.researchr.org/details/cgo-2021/cgo-2021-papers/18/Variable-sized-Blocks-for-Locality-aware-SpMV) -
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm18.pdf).
+
+**2020**
+<p align="justify">
+Taylor Groves,<font color="#069"><i>Naveen Ravichandrasekaran</i></font>, 
+Brandon Cook, Brian Friesen, Noel Keen, David Trebotich, Nicholas J. Wright, Bob
+Alverson, Duncan Roweth, and Keith Underwood. <font color="#069">Not All 
+Applications Have Boring Communication Patterns: Profiling Message Matching with
+BMM</font> Cray User Group Meeting CUG 2020.</p>
+[**PDF**](https://cug.org/proceedings/cug2020_proceedings/includes/files/spec114s1.pdf)
 
 **2018**
 <p align="justify">
