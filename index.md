@@ -90,7 +90,7 @@ Interface in OpenSHMEM. </font> ACM Transactions on Parallel Computing.</p>
 Yew. <font color="#069"> Variable-Sized Blocks for Locality-Aware SpMV</font>
 International Symposium on Code Generation and Optimization (CGO).</p>
 [**PDF**](https://conf.researchr.org/details/cgo-2021/cgo-2021-papers/18/Variable-sized-Blocks-for-Locality-aware-SpMV) -
-[**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/osm18.pdf).
+[**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/cvb-presentation.pptx).
 
 **2020**
 <p align="justify">
