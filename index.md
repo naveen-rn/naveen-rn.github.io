@@ -84,8 +84,6 @@ Applications Have Boring Communication Patterns: Profiling Message Matching with
 BMM</font> Concurrency and Computation: Practice and Experience.(Accepted April
 2021)</p>
 
-</p>
-
 **2020**
 <p align="justify">
 <font color="#069"><i>Naveen Namashivayam</i></font>, Bill Long, Deepak
