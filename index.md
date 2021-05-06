@@ -32,7 +32,9 @@ Bachelors in Engineering - Electrical and Electronics Engineering
 **HPE**
 January 2020 - Present
 
-Software Engineer in the Programming Environment - Message Passing Toolkit group
+Software Engineer in the Programming Environment - Message Passing Toolkit
+group. HPE acquired Cray, Inc. Continuing to be part of the Cray Programming
+Environment team working on the Message Passing software stack.
 
 **Cray, Inc.**
 December 2015 - December 2019
@@ -53,6 +55,20 @@ Research Assistant to Dr. Barbara Chapman
 June 2011 - July 2013
 
 Programmer Analyst
+
+---
+
+## Online Profiles
+
+* [LinkedIn](www.linkedin.com/in/naveenrn)
+
+---
+
+## Publications
+
+* [Google Scholar](https://scholar.google.dk/citations?user=aeQytMAAAAAJ&hl)
+* [ORCID](https://orcid.org/0000-0003-3695-5696)
+* [ResearchGate](https://www.researchgate.net/profile/Naveen-Ravichandrasekaran)
 
 ---
 
