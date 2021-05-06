@@ -75,15 +75,15 @@ Programmer Analyst
 ## Projects
 
 ### Current Projects
-1. [**Cray OpenSHMEMX**](https://pe-cray.github.io/cray-openshmemx/)
+1. [Cray OpenSHMEMX](https://pe-cray.github.io/cray-openshmemx/)
 2. **Cray MPICH**
 
 ### Past Projects
 1. **Cray SHMEM**
 2. **DMAPP**
 3. **Cray Global Arrays (ComEx-DMAPP)**
-4. [**OpenSHMEM Reference Implementation**](https://github.com/openshmem-org/osss-gasnet)
-5. [**Coarray Fortran in OpenUH**](https://github.com/uhhpctools/openuh)
+4. [OpenSHMEM Reference Implementation](https://github.com/openshmem-org/osss-gasnet)
+5. [Coarray Fortran in OpenUH](https://github.com/uhhpctools/openuh)
 
 ---
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
