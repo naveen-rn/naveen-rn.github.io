@@ -1,3 +1,4 @@
+%!TEX root = ./cv.tex
 \documentclass{resume}
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
@@ -7,12 +8,12 @@
 %	Name and Address Section
 %---------------------------------------------------------------------
 
-\name{Naveen N Ravichandrasekaran}
-\address{250 East 6th Street, Apt 0402 \\
+\name{Naveen N Ravi}
+\address{250 East 6th Street, Apt 0804 \\
          Saint Paul, MN 55101}
 \address{(832)~$\cdot$~720~$\cdot$~2393 \\
-         % \url{http://www.naveenravichandrasekaran.com/} \\
          nravi.research@gmail.com}
+\address{\url{https://naveen-rn.github.io/}}
 
 \begin{document}
 
@@ -33,14 +34,6 @@
 \end{rSection}
 
 %---------------------------------------------------------------------
-%   Key Activities
-%---------------------------------------------------------------------
-
-\begin{rSection}{Key Activities}
-\input{activities}
-\end{rSection}
-
-%---------------------------------------------------------------------
 %   EDUCATION SECTION
 %---------------------------------------------------------------------
 
@@ -57,6 +50,14 @@
 \end{rSection}
 
 %---------------------------------------------------------------------
+%   Key Activities
+%---------------------------------------------------------------------
+
+\begin{rSection}{Standardization Activities}
+\input{standards}
+\end{rSection}
+
+%---------------------------------------------------------------------
 %   AWARDS
 %---------------------------------------------------------------------
 
@@ -64,32 +65,35 @@
 \input{awards}
 \end{rSection}
 
-%---------------------------------------------------------------------
-%   PROJECTS
-%---------------------------------------------------------------------
-
-\begin{rSection}{Projects}
-\input{projects}
+\begin{rSection}{Funded Projects}
+\input{fprojects}
 \end{rSection}
 
 %---------------------------------------------------------------------
 %   PUBLICATIONS
 %---------------------------------------------------------------------
 
-\begin{rSection}{Refereed Conference and Workshop Publications}
+\begin{rSection}{Publications}
 % Available on request or from Google Scholar.
 My full name is \textbf{Naveen Namashivayam Ravichandrasekaran} and I author all
-conference and workshop publications as \textbf{Naveen Namashivayam}.
+conference and workshop publications as \textbf{Naveen Namashivayam}.\\ \\
 \input{publications}
 \end{rSection}
 
-\begin{rSection}{Thesis}
-\begin{itemize}
-\item N.Namashivayam.
-      \textit{"OpenSHMEM as an Effective Communication Layer for PGAS Models"}.
-      Master's Thesis, University of Houston, October, 2015.
-      % \url{https://pdfs.semanticscholar.org/1c6b/9787b0eda7723a14ba6bc92cd77a7dcb0102.pdf}
-\end{itemize}
+\begin{rSection}{Peer Review Professional Activities}
+\input{activities}
 \end{rSection}
+
+\begin{rSection}{Patents}
+\input{patents}
+\end{rSection}
+
+% %---------------------------------------------------------------------
+% %   PROJECTS
+% %---------------------------------------------------------------------
+
+% \begin{rSection}{Current and Previous Projects}
+% \input{projects}
+% \end{rSection}
 
 \end{document}

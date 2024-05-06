@@ -4,9 +4,9 @@
 Professional Software Engineer with experience in the general areas
 of parallel and distributed computing. Specifically, my technical
 skills focus on parallel computing architectures, parallel programming models
-and runtime systems, (MPI and Partitioned Global Address Space models like
-OpenSHMEM, Global Arrays, and Coarray Fortran) and high-speed interconnect
-libraries.
+and userspace communication runtime systems (MPI and Partitioned Global Address
+Space models like OpenSHMEM, Global Arrays, and Coarray Fortran), and 
+high-speed interconnect libraries.
 </p>
 
 [View my detailed CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/cv.pdf)
@@ -14,6 +14,11 @@ libraries.
 ---
 
 ## Education
+
+**University of Minnesota**
+August 2022 - May 2026
+
+Ph.D in Computer Science 
 
 **University of Houston**
 August 2013 - December 2015
