@@ -4,11 +4,12 @@
 Professional Software Engineer with experience in the general areas
 of parallel and distributed computing. Specifically, my technical
 skills focus on parallel computing architectures, parallel programming models
-and userspace communication runtime systems (MPI and Partitioned Global Address
-Space models like OpenSHMEM, Global Arrays, and Coarray Fortran), and 
-high-speed interconnect libraries.
+and userspace communication runtime systems (like MPI, NCCL/RCCL, and
+Partitioned Global Address Space models like OpenSHMEM, Global Arrays, and
+Coarray Fortran), and high-speed interconnect libraries.
 </p>
 
+[View my short CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/short-cv.pdf)
 [View my detailed CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/cv.pdf)
 
 ---
@@ -18,7 +19,7 @@ high-speed interconnect libraries.
 **University of Minnesota**
 August 2022 - May 2026
 
-Ph.D in Computer Science 
+Ph.D in Computer Science
 
 **University of Houston**
 August 2013 - December 2015
@@ -39,7 +40,8 @@ January 2020 - Present
 
 Software Engineer in the Programming Environment - Message Passing Toolkit
 group. HPE acquired Cray, Inc. Continuing to be part of the Cray Programming
-Environment team working on the Message Passing software stack.
+Environment team working on the Message Passing software stack. Tech lead for
+the Cray OpenSHMEMX and Cray MPI software libraries.
 
 **Cray, Inc.**
 December 2015 - December 2019
@@ -91,10 +93,12 @@ Programmer Analyst
 5. [Coarray Fortran in OpenUH](https://github.com/uhhpctools/openuh)
 
 ---
+## Publications
+
 My full name is **Naveen Namashivayam Ravichandrasekaran** and I author all
 conference and workshop publications as **Naveen Namashivayam**.
 
-## Journal Articles
+### Journal Articles
 
 **2021**
 <p align="justify">
@@ -112,7 +116,7 @@ Eachempati, Bob Cernohous, and Mark Pagel. <font color="#069"> A Modern Fortran
 Interface in OpenSHMEM. </font> ACM Transactions on Parallel Computing.</p>
 [**PDF**](https://dl.acm.org/doi/abs/10.1145/3418084)
 
-## Conference and Workshop Publications
+### Conference and Workshop Publications
 
 **2021**
 <p align="justify">
@@ -206,7 +210,7 @@ on Partitioned Global Address Space Programming Models (PGAS).</p>
 
 ---
 
-## Thesis
+### Thesis
 **Masters Thesis**, University of Houston, October 2015.
 <p align="justify">
 <font color="#069">OpenSHMEM as an Effective Communication Layer for PGAS Models.</font>
@@ -216,3 +220,38 @@ Dr. Mikhail Sekachev</p>
 [**SLIDES**](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/deck/ms-thesis.pdf).
 
 ---
+
+### Other Publications
+
+**2023**
+<p align="justify">
+<font color="#069"><i>Naveen Namashivayam</i></font>, Krishna Kandalla, James B
+White III, Larry Kaplan, and Mark Pagel.
+<font color="#069">Exploring Fully Offloaded GPU Stream-Aware Message Passing.</font>
+arXiv preprint arXiv:2306.15773.</p>
+[**PDF**](https://arxiv.org/pdf/2306.15773)
+
+**2022**
+<p align="justify">
+<font color="#069"><i>Naveen Namashivayam</i></font>, Krishna Kandalla, James B
+White III, Nick Radcliffe, Larry Kaplan, and Mark Pagel.
+<font color="#069">Exploring GPU Stream-Aware Message Passing using Triggered
+Operations.</font> arXiv preprint arXiv:2208.04817.</p>
+[**PDF**](https://arxiv.org/pdf/2208.04817)
+
+---
+
+## Professional Activities
+
+### Standardization
+
+* **OpenSHMEM standardization Effort**, Participate and represent HPE in
+OpenSHMEM standards committee. [**LINK**](http://openshmem.org/).
+* **MPI Forum**, Participate and represent HPE in the standardization
+forum for the Message Passing Interface (MPI). [**LINK**](https://www.mpi-forum.org/).
+
+### Peer Reviews
+
+* Workshop on OpenSHMEM and Related Technologies 2016, 2017, 2018, and 2021.
+* IEEE Transactions on Parallel and Distributed Systems (TPDS).
+
