@@ -10,6 +10,7 @@ Coarray Fortran), and high-speed interconnect libraries.
 </p>
 
 [View my short CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/short-cv.pdf)
+
 [View my detailed CV as PDF](https://github.com/naveen-rn/naveen-rn.github.io/raw/master/cv/cv.pdf)
 
 ---
